@@ -1,0 +1,54 @@
+{
+
+  "required" : [{
+
+    "Name" : " ABCB1 ",
+
+    "integer" : "1281",
+
+    " AccessionNumber ": " AAEX04000014.1"
+
+  },
+
+{
+
+    "name" : " CDH1 ",
+
+    " integer " : "885",
+
+    " AccessionNumber ": " AAEX04000005.1"
+
+  },
+
+{
+
+    "name" : " KIT",
+
+    " integer " : "979",
+
+    " AccessionNumber”: " AAEX04000013.1"
+
+  },
+
+{
+
+    "name" : " TP53",
+
+    " integer " : "381",
+
+    “AccessionNumber”: " AB020761.1"
+
+  },
+
+{
+
+    "name" : " SLC8A1",
+
+    " integer " : "970",
+
+    “AccessionNumber”:  " AAEX04000017.1"
+
+  }]
+
+}
+
